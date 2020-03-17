@@ -11,4 +11,7 @@ board = [" "," "," "," "," "," "," "," "," "]
 board[0]="X"
 board[1]="X"
 board[2]="X"
+board[6]="O"
+board[4]="O"
+board[7]="O"
 display_board(board)
